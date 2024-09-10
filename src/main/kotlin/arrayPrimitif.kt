@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
     // Array of int of size 5 with values [42, 42, 42, 42, 42]
 
     val shortArray = ShortArray(5) { 42 }
-    shortArray.forEach { print(it.toString() + ' ') }
+    shortArray.forEach { print(it.toString() + ' ') }//
     print('\n')
 
     //e.g. intialise the values in the array using a lambda
