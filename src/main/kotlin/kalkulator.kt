@@ -35,5 +35,4 @@ fun main(args: Array<String>) {
     }
     println("Thank you fo using our calculator")
 
-
 }
